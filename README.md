@@ -10,4 +10,4 @@ Mvh underviseren selv Anders J.R. Petersen
 
 ---
 
-[Materialer til forløb 1 3G - GUI bibliotek og knapper](3Gforlob1_GUI_lib_knapper/forlob1_gui_lib_knapper.md)
+[Materialer til forløb 1 3G - GUI bibliotek og knapper](forlob1_guilib_knapper/forlob1_gui_lib_knapper.md)
