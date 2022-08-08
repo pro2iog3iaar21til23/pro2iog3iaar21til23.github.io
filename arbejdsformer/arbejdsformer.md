@@ -12,6 +12,7 @@ I skal aflevere et link til jeres logbog.
 I kan f.eks. anvende ***github, google-docs*** eller ***one-note***.
 
 ## Kode-opgaver  
+![kodeSjov.jpg](kodeSjov.jpg)  
 I de fleste forløb, vil der være en eller flere kode-opgaver, hvor i selv skal skrive et program.        
 Husk det kræver kreativitet at skrive programmer og der vil altid mange forskellige løsninger, så vær ikke bange for at fejle eller prøve noget nyt.  
 
