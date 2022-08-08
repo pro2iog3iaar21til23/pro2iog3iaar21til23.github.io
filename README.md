@@ -9,5 +9,6 @@ Mvh underviseren selv Anders J.R. Petersen
 [Arbejdsformer og opgavetyper](arbejdsformer/arbejdsformer.md)
 
 ---
+# Forløb 3G 
 
-[Materialer til forløb 1 3G - GUI bibliotek og knapper](forlob1_guilib_knapper/forlob1_gui_lib_knapper.md)
+[Materialer til forløb 1 - GUI bibliotek og knapper](forlob1_guilib_knapper/forlob1_guilib_knapper.md)
