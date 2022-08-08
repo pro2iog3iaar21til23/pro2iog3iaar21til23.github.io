@@ -1,4 +1,4 @@
-# Arbejdsformer og opgavertyper i programmering
+# Arbejdsformer og opgavetyper i programmering
 
 Jeg vil løbende skrive mere om arbejdsformer og opgaver efterhånden som de forekommer i undervisningen.
 
