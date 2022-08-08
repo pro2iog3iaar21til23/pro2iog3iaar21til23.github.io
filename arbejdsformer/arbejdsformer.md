@@ -14,4 +14,4 @@ I kan f.eks. anvende ***github, google-docs*** eller ***one-note***.
 I de fleste forløb, vil der være en eller flere kode-opgaver, hvor i selv skal skrive et program.        
 Husk det kræver kreativitet at skrive programmer og der vil altid mange forskellige løsninger, så vær ikke bange for at fejle eller prøve noget nyt.  
 
-I afleverer de færdige kode-opgaver på lectio.
+I afleverer de færdige kode-opgaver på lectio som en zip-fil.
