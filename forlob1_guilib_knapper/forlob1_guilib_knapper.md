@@ -19,6 +19,8 @@ Skriv et lille afsnit i din log-bog om følgende begreber:
 Klasse, objekt, nedarvning, superklasser, subklasser, polymorfi og override.
 Giv også gerne eksempler.  
 
+**Vigtigt: Send link til logbogen på elevfeedback.**
+
 ## Kode-opgave : Knap hierakiet påbegyndes
 
 Det første i skal lave i jeres gui-bibliotek er et hieraki af knap-klasser.
