@@ -23,7 +23,10 @@ Giv også gerne eksempler.
 
 I denne lille kode-opgave skal i opstarte jeres gui-bibliotek med et hieraki af knap-klasser.
 
-Lav super-komponent-klasse, toggle-knap-klasse og almindelig-knap-klasse.
-Udtænk et lille "eksempel" hvor i anvender jeres almindelige-knap og jeres toggle-knap.  Husk at lave eksemplet meget simpelt, da det kun skal bruges til at teste jeres knapper og ikke koste særlig meget tid.
+Lav en komponent-klasse. Lav derefter to sub-klasser, en toggle-knap-klasse og en almindelig-knap-klasse.  
+Begge knap-klasser skal nedarve fra komponent-klassen.
+Og alt kode, der er ens i de to knap-klasser bør flyttes op i komponent-klassen.
 
-Vi arbejder videre næste gang... så endnu ingen aflevering.
+Udtænk et lille "eksempel" hvor i anvender jeres almindelige-knap og jeres toggle-knap.  Husk at lave eksemplet meget simpelt, da det kun skal bruges til at teste jeres knapper og ikke koste særlig meget tid at lave.
+
+Vi arbejder videre næste gang... så i skal ikke aflevere endnu.
