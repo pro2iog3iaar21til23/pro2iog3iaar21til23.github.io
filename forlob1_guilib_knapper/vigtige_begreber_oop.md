@@ -10,3 +10,5 @@ Dette er vigtige begreber som i bør have med i jeres Logog.
 - superklasser
 - subklasser
 - polymorfi 
+- override
+- overload
