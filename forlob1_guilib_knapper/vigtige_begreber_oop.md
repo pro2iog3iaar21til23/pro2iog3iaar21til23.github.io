@@ -5,7 +5,7 @@ Dette er vigtige begreber som i bør have med i jeres Logog.
 - klasser
 - objekter
 - instanser
-- instansiering
+- instantiering
 - nedarvning
 - superklasser
 - subklasser
