@@ -1,9 +1,2 @@
 theme: jekyll-theme-hacker
 markdown: GFM
-Navigation:
-- title: logbog
- url: https://prog3i.github.io/arbejdsformer/arbejdsformer.html
-- title: About
-url: http://xociety.co
- - title: Contact
-url: /contact
