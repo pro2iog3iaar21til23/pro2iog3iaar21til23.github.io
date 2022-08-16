@@ -28,6 +28,7 @@ Det første i skal lave i jeres gui-bibliotek er et hieraki af knap-klasser.
 Lav en komponent-klasse. Lav derefter to sub-klasser, en toggle-knap-klasse og en almindelig-knap-klasse.  
 Begge knap-klasser skal nedarve fra komponent-klassen.
 Kode der er ens i de to knap-klasser flyttes op i komponent-klassen, så man undgår kode gentagelser.
+![Knap Hierakiet](KnapHieraki.jpg)
 
 Udtænk et lille "eksempel" hvor i anvender jeres almindelige-knap og jeres toggle-knap. Husk at lave eksemplet meget simpelt, da det kun skal bruges til at teste jeres knapper og ikke koste særlig meget tid at lave.
 
