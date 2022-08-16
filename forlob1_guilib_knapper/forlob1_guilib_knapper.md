@@ -19,7 +19,7 @@ Skriv et lille afsnit i din log-bog om følgende begreber:
 [vigtige begreber oop](vigtige_begreber_oop.md).  
 Giv også gerne eksempler.  
 
-**Vigtigt: Send link til logbogen på elevfeedback.**
+**Aflevering: Upload et link til lectio-opgaven "Link til logbog"**
 
 ## Kode-opgave : Knap hierakiet påbegyndes
 
@@ -31,4 +31,4 @@ Kode der er ens i de to knap-klasser flyttes op i komponent-klassen, så man und
 
 Udtænk et lille "eksempel" hvor i anvender jeres almindelige-knap og jeres toggle-knap. Husk at lave eksemplet meget simpelt, da det kun skal bruges til at teste jeres knapper og ikke koste særlig meget tid at lave.
 
-Vi arbejder videre næste gang... så i skal ikke aflevere endnu.
+**Aflevering: Upload en zip-fil til lectio-opgaven "Knap hierakiet"**
