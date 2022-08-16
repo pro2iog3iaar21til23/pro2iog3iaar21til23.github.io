@@ -32,10 +32,11 @@ Kode der er ens i de to knap-klasser flyttes op i komponent-klassen, så man und
 <img src="KnapHieraki.jpg" alt="drawing" width="500"/>
 
 Udtænk et lille "eksempel" hvor i anvender jeres almindelige-knap og jeres toggle-knap. Husk at lave eksemplet meget simpelt, da det kun skal bruges til at teste jeres knapper og ikke koste særlig meget tid at lave.   
-Nedenfor har jeg lavet en kode, hvor jeg viser et eksempel med hvad jeg kalder en "bank-app", det er bare et forslag.   
+
+Nedenfor har jeg lavet en video, hvor jeg viser et eksempel med hvad jeg kalder en "bank-app", det er bare et forslag.   
 Bagefter viser jeg også et forslag til hvilke metoder, variabler og noget af den kode man skal skrive.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5RM4t27l1u0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[https://youtu.be/5RM4t27l1u0](https://youtu.be/5RM4t27l1u0)
 
 
 Det er vigtigt at man ikke blander kode ind i knap-klasserne, der er andet end knap-kode!   
