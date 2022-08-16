@@ -16,7 +16,7 @@ Herefter tager tager lige en snak om hvad forskellen er på nedarvning og polymo
 *varighed ca. 30 minutter*
 
 Skriv et lille afsnit i din log-bog om følgende begreber:  
-[vigtige begreber oop](vigtige_begreber_oop.md)
+[vigtige begreber oop](vigtige_begreber_oop.md).  
 Giv også gerne eksempler.  
 
 **Vigtigt: Send link til logbogen på elevfeedback.**
