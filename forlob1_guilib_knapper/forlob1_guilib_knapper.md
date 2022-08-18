@@ -38,6 +38,8 @@ Bagefter viser jeg også et forslag til hvilke metoder, variabler og noget af de
 
 [https://youtu.be/5RM4t27l1u0](https://youtu.be/5RM4t27l1u0)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5RM4t27l1u0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Det er vigtigt at man ikke blander kode ind i knap-klasserne, der er andet end knap-kode!   
 Husk et bibliotek skal kunne bruges af alle uden man skal ændre i bibliteks-koden.
