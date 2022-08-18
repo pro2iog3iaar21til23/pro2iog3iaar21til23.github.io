@@ -36,7 +36,7 @@ Udtænk et lille "eksempel" hvor i anvender jeres almindelige-knap og jeres togg
 Nedenfor har jeg lavet en video, hvor jeg viser et eksempel med hvad jeg kalder en "bank-app", det er bare et forslag.   
 Bagefter viser jeg også et forslag til hvilke metoder, variabler og noget af den kode man skal skrive.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5RM4t27l1u0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5RM4t27l1u0" frameborder="0"></iframe>  
 
 
 #### Det er vigtigt at man ikke blander kode ind i knap-klasserne, der er andet end knap-kode! Husk et bibliotek skal kunne bruges af alle uden man skal ændre i bibliteks-koden.
