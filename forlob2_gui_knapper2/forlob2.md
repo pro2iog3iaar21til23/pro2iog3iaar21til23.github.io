@@ -58,12 +58,12 @@ void mousePressed(){
 ## Kode til almindelig knap - men IKKE EGNET TIL BIBLIOTEK
 
 ```java
-// Dette er kode der viser en almindelig-knap
+// Dette er kode der viser en toggle-knap
 // Men koden er IKKE EGNET TIL ET BIBLIOTEK !!!
 
 //DEL AF KNAP
 int      knapX=10, knapY=30, knapB=120, knapH = 40;
-boolean  knapOn = false;
+boolean  knapOn = false;    //SPECIEL TILSTAND I TOGGLE-KNAP 
 
 //IKKE DEL AF KNAP
 int      counter = 0;
@@ -94,6 +94,10 @@ void draw(){
   fill(255);
   text("knap har været tændt " + counter + " frames",10,300);
 
+    //IKKE DEL AF KNAP -  men bare optælning af antal gange man tænder knappen!  
+  if(knapOn){
+    counter++;  
+  }
 }
 
 //DEL AF KNAPPEN - 
@@ -106,11 +110,9 @@ boolean erKnappenKlikket(){
 }
 
 void mousePressed(){
-  //IKKE DEL AF KNAP -  men bare optælning af antal gange man tænder knappen!  
-  if(erKnappenKlikket()){
-    counter++;  
-  }
+  erKnappenKlikket();
 }
+
 
 
 ```
