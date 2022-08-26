@@ -136,7 +136,7 @@ Alt dette er muligt med Objekt orienteret programmering! Knappen skal laves om t
 Se følgende eksempel:
 
 ```java
-// Dette er kode der anvendelse af en toggle-knap fra et "bibliotek"
+// Dette er kode der andvender en toggle-knap fra et "bibliotek"
 
 ToggleKnap  minToggleKnap   = new ToggleKnap(10,30,120,40);
 int         counter         = 0;
