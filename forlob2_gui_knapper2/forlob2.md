@@ -3,7 +3,9 @@
 Det er vigtigt at være opmærksom på at ens kode skrives på en helt bestemt måde hvis den skal kunne anvendes fra et bibliotek.
 Hvis knappen kun skal laves en gang, kan koden se anderledes ud!!.
 
-## Kode til almindelig knap - men IKKE EGNET TIL BIBLIOTEK
+## Kode til almindelig-knap, der ikke ligger i et bibliotek
+
+Nedenstående kode kan bruges som udgangspunkt til at bygge en klasse for "almindelige knapper" til biblioteket
 
 ```java
 // Dette er kode der viser en almindelig-knap
@@ -62,7 +64,9 @@ void mouseReleased(){
 }
 ```
 
-## Kode til toogle-knap - dog IKKE EGNET TIL BIBLIOTEK
+## Kode til toggle-knap, der ikke ligger i et bibliotek
+
+Nedenstående kode kan bruges som udgangspunkt til at bygge en klasse for "toggler knapper" til biblioteket
 
 ```java
 // Dette er kode der viser en toggle-knap
