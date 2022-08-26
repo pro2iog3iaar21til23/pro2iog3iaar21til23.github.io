@@ -65,7 +65,7 @@ void mouseReleased(){
 ## Kode til toogle-knap - dog IKKE EGNET TIL BIBLIOTEK
 
 ```java
-// Dette er kode der viser en almindelig-knap
+// Dette er kode der viser en toggle-knap
 // Men koden er IKKE direkte EGNET TIL ET BIBLIOTEK !!!
 
 //DEL AF KNAP
@@ -122,17 +122,18 @@ void mouseReleased(){
 
 # FLYT DINE KNAPPER TIL ET BIBLIOTEK
 
-Ideen med et bibliotek er at koden, der direkte har noget at gøre med knapperne ikke skal kunne ses eller ændres i. Istedet skal det bare være muligt at kalde koden uden man behøver at skrive andet end "lav knap!". Og hvis knappen skal gøre et eller andet når den bliver trykket på, skal det være muligt at spørge "er du trykket på?" og så kan man gøre det man ønsker at gøre hvis svaret er "ja!". osv.
+Ideen med et bibliotek er blandt andet at biblioteks-koden ikke skal kunne ses eller ændres i. Istedet skal det bare være muligt at kalde koden uden man behøver at skrive andet end f.eks. "lav knap!". Og hvis knappen skal gøre et eller andet når den bliver trykket på, skal det være muligt at spørge "er du trykket på?" og så kan man gøre det man ønsker at gøre hvis svaret er "ja!". osv.
 
 Krav til knap-biblioteks-koden:
 
-- Knap koden skal ligge et andet sted,- og man skal ikke behøve ændre den
-- Man skal nemt kunne lave flere knapper
+- "Knap koden" skal ikke blandes sammen med "ikke knap koden",- og man skal ikke behøve ændre den
+- Det skal være nemt at lave flere knapper
 - Man skal ikke behøve forstå hvordan knap-koden gør det den gør, men kun hvordan man anvender den
 
-Biblioteks-koden skal være ligesom når man kører bil. Man behøver ikke forstår hvad motoren gør når man trykker på speederen og skifter gear, man skal bare hvad den gør og hvordan man bruger den!
+Biblioteks-koden skal være ligesom når man kører bil. Man behøver ikke forstå HVORDAN motoren virker når man trykker på speederen eller skifter gear, man skal bare forstå HVAD den gør og når anvender den!
 
-Alt dette er muligt med Objekt orienteret programmering! Knappen skal laves om til en klasse. Se følgende eksempel:
+Alt dette er muligt med Objekt orienteret programmering! Knappen skal laves om til en klasse.   
+Se følgende eksempel:
 
 ```java
 // Dette er kode der anvendelse af en toggle-knap fra et "bibliotek"
