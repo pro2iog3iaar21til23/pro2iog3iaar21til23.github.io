@@ -55,7 +55,7 @@ void mousePressed(){
   }
 ```
 
-## Kode til almindelig knap - men IKKE EGNET TIL BIBLIOTEK
+## Kode til toogle-knap - dog IKKE EGNET TIL BIBLIOTEK
 
 ```java
 // Dette er kode der viser en toggle-knap
@@ -63,7 +63,7 @@ void mousePressed(){
 
 //DEL AF KNAP
 int      knapX=10, knapY=30, knapB=120, knapH = 40;
-boolean  knapOn = false;    //SPECIEL TILSTAND I TOGGLE-KNAP 
+boolean  knapOn = false; // ny tilstand i toggle-knappen
 
 //IKKE DEL AF KNAP
 int      counter = 0;
@@ -90,29 +90,22 @@ void draw(){
     text("tryk !",knapX+10,knapY+30);
   }
   
-  //IKKE DEL AF KNAP - men bare en der udskrivning af antal gange man tænder knappen!
-  fill(255);
-  text("knap har været tændt " + counter + " frames",10,300);
-
-    //IKKE DEL AF KNAP -  men bare optælning af antal gange man tænder knappen!  
+  //IKKE DEL AF KNAP - tæl og udskrivning af counter!
   if(knapOn){
     counter++;  
   }
-}
-
-//DEL AF KNAPPEN - 
-boolean erKnappenKlikket(){
-  boolean knapClicked = mousePressed && mouseX>knapX && mouseX<(knapX+knapB) && mouseY>knapY && mouseY<(knapY+knapH);
-  if(knapClicked){
-    knapOn = !knapOn;
-  }
-  return knapClicked;
+  fill(255);
+  text("knap har været tændt " + counter + " frames",10,300);
 }
 
 void mousePressed(){
-  erKnappenKlikket();
+  //DEL AF KNAP - registrer klik
+  if(mousePressed && mouseX>knapX && mouseX<(knapX+knapB) && mouseY>knapY && mouseY<(knapY+knapH)){
+    knapOn = !knapOn;
+  }  
 }
 
-
+void mouseReleased(){
+}
 
 ```
