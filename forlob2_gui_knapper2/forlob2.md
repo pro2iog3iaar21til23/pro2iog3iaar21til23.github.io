@@ -4,7 +4,10 @@ Det er vigtigt at være opmærksom på at ens kode skrives på en helt bestemt m
 Hvis knappen kun skal laves en gang, og ikke skal genbruges kan koden se således ud for en såkaldt "toggle-knap".
 
 ```java
-int      knapX=100, knapY=100, knapB=100, knapH = 40;
+// Dette er kode der viser en toggle-knap
+// Men koden er IKKE EGNET TIL ET BIBLIOTEK !!!
+
+int      knapX=100, knapY=100, knapB=120, knapH = 40;
 boolean  knapOn = false;  
 
 void setup(){
@@ -13,13 +16,19 @@ void setup(){
 
 
 void draw(){
-  //tegn knap
+  clear();
+  textSize(30);
   if(knapOn){
-    fill(200,200,50);  
+    fill(200);
+    rect(knapX,knapY,knapB,knapH);
+    fill(255);
+    text("tændt",knapX+10,knapY+30);
   }else{
     fill(100);
+    rect(knapX,knapY,knapB,knapH);
+    fill(200);
+    text("slukket",knapX+10,knapY+30);
   }
-  rect(knapX,knapY,knapB,knapH);
 }
 
 void mousePressed(){
