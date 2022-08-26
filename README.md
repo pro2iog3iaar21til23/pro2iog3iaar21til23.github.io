@@ -15,5 +15,5 @@ Mvh underviseren selv Anders J.R. Petersen
 
 ---
 
-[forløb 2 - materialer : *Hvordan koder man til et bibliotek - knapper fortsat*](forlob3_gui_knapper3/forlob2.md)
+[forløb 2 - materialer : *Hvordan koder man til et bibliotek - knapper fortsat*](forlob2_gui_knapper2/forlob2.md)
 
