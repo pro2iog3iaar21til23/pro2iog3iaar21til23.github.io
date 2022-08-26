@@ -128,7 +128,7 @@ Krav til knap-biblioteks-koden:
 
 - "Knap koden" skal ikke blandes sammen med "ikke knap koden",- og man skal ikke behøve ændre den
 - Det skal være nemt at lave flere knapper
-- Man behøver forstå hvordan knap-koden gør det den gør, men kun hvordan man anvender den
+- Man behøver ikke forstå hvordan knap-koden gør det den gør, men kun hvordan man anvender den
 
 Biblioteks-koden skal være ligesom når man kører bil. Man behøver ikke forstå HVORDAN motoren virker når man trykker på speederen eller skifter gear, man skal bare forstå HVAD den gør og når anvender den!
 
