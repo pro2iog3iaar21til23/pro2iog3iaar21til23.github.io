@@ -17,3 +17,6 @@ Mvh underviseren selv Anders J.R. Petersen
 
 [forløb 2 - materialer : *Hvordan koder man til et bibliotek - knapper fortsat*](forlob2_gui_knapper2/forlob2.md)
 
+---
+
+[forløb 3 - materialer : *Radio knapper*](forlob3_radio_knapper/forlob3_radio.md)
