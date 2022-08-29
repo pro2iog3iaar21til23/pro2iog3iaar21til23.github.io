@@ -6,11 +6,11 @@ I skal nu udvide jeres bibliotek fra sidst med en ny knap-type. En såkaldt "rad
 
 Kravet til knappen er følgende:
 
--skal fungere som en almindelig Radio button, se ovenfor
--subklasse til jeres super-klasse "Knap" eller måske har i lavet en superklasse kaldet "Komponent"
--skal indeholde 3 options (kan måske laves af tre almindelige knapper)
--man skal kunne sætte de tekster på de tre options
--man skal kunne få info om knappens tilstand på et hvert tidspunkt
+- skal fungere som en almindelig Radio button, se ovenfor
+- subklasse til jeres super-klasse "Knap" eller måske har i lavet en superklasse kaldet "Komponent"
+- skal indeholde 3 options (kan måske laves af tre almindelige knapper)
+- man skal kunne sætte de tekster på de tre options
+- man skal kunne få info om knappens tilstand på et hvert tidspunkt
 
 Se et eksempel nedenfor:
 
