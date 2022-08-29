@@ -9,8 +9,8 @@ Kravet til knappen er følgende:
 - skal fungere som en almindelig Radio button, se ovenfor
 - subklasse til jeres super-klasse "Knap" eller måske har i lavet en superklasse kaldet "Komponent"
 - skal indeholde 3 options (kan måske laves af tre almindelige knapper)
-- man skal kunne sætte de tekster på de tre options
-- man skal kunne få info om knappens tilstand på et hvert tidspunkt
+- man skal kunne sætte tekster på de tre options
+- man skal kunne få info om knappens tilstand på et hvert tidspunkt. Altså få at vide hvilken option der er valgt
 
 Se et eksempel nedenfor:
 
