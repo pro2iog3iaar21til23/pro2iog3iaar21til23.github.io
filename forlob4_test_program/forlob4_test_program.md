@@ -7,3 +7,5 @@ På den måde får i muligvis også opdaget nogle ting jeres gui-bibliotek ikke 
 Eller uhensigtmæssigheder i den måde i laver objekter eller andet på!
 
 Opgaven er enkel - lav nedenstående ved at bruge jeres gui-bibliotek
+
+![TestProgram1.png](TestProgram1.png)
