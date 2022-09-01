@@ -20,3 +20,7 @@ Mvh underviseren selv Anders J.R. Petersen
 ---
 
 [forløb 3 - materialer : *Radio knapper*](forlob3_radio_knapper/forlob3_radio.md)
+
+---
+
+[forløb 4 - materialer : *Valuta test program*](forlob4_test_program/forlob3_test_program.md)
