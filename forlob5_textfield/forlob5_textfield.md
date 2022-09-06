@@ -11,10 +11,8 @@ Det i skal lave er et meget simpelt tekstfelt, der som minimum skal opfylde føl
 - Man skal kunne "vælge" tekstfeltet ved at klikke på det og "fravælge" det ved at klikke et andet sted
 - Kun hvis tekstfeltet er valgt skal det være muligt at skrive i det
 
-Nedenfor ses noget kode, der registrerer tastetryk og gemmer dem i String-variablen kaldet content.   
-Indholdet af "content" udskrives midt på skærmen.    
-Hvis man trykker "backspace" slettes det sidste tegn...   
-I må meget gerne anvende koden som udgangspunkt for jeres nye tekstfelt-klasse:
+Nedenfor ses noget kode, som i gerne må genbruge i jeres tekstfelt.    
+Vær dog sikker på i forstår koden inden i anvender den:
 
 ```java
 String content = "";
