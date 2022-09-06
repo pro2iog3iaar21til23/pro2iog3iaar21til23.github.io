@@ -6,12 +6,10 @@ Der er desuden mange forkskellig typer teskfelter.
 
 Det i skal lave er et meget simpelt tekstfelt, der som minimum skal opfylde følgende krav:
 
-***
-- Når man trykker på en tast på keyboardet skal den rigstreres og tilføjes til indeholdet i tekstfeltet
-- Hvis man trykker på slet ( dvs. backspace ) skal det sidste tegn i tekstfeltet slettes
-- Man skal kunne "vælge" tekstfeltet ved at klikke på det og "fravælge" det ved at klikke et andet sted
-- Kun hvis tekstfeltet er valgt skal det være muligt at skrive i det
-***
+- *Når man trykker på en tast på keyboardet skal den rigstreres og tilføjes til indeholdet i tekstfeltet*
+- *Hvis man trykker på slet ( dvs. backspace ) skal det sidste tegn i tekstfeltet slettes*
+- *Man skal kunne "vælge" tekstfeltet ved at klikke på det og "fravælge" det ved at klikke et andet sted*
+- *Kun hvis tekstfeltet er valgt skal det være muligt at skrive i det*
 
 Nedenfor ses noget kode, som i gerne må genbruge i jeres tekstfelt.    
 Vær dog sikker på i forstår koden inden i anvender den:
