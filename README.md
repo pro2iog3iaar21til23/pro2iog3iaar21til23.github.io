@@ -31,4 +31,4 @@ Mvh underviseren selv Anders J.R. Petersen
 
 ---
 
-[forløb 6 - materialer : *Tekstfeltet*](forlob6_guiHandler/forlob5_guiHandler.md)
+[forløb 6 - materialer : *GUIHandleren - et objekt der styrer alle de andre*](forlob6_guiHandler/forlob6_guiHandler.md)
