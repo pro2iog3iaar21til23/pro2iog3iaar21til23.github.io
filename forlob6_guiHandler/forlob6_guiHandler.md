@@ -4,7 +4,7 @@
 Ideen med GUIHAndleren er at have et objekt der kan bruges til at holde styr på alle komponenter.
 Hvis alle knapper, tekstfelter, radio-buttons osv. nedarver fra en fælles komponent-klasse - kan de indsættes i samme liste - og man kan håndtere alt vha. loops.                     
 
-Se følgende kode - kan i se det er noget mere ovberskueligt!:                   
+Se følgende kode - kan i se det er noget mere overskueligt!:                   
 
 
 ```java
