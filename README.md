@@ -28,3 +28,7 @@ Mvh underviseren selv Anders J.R. Petersen
 ---
 
 [forløb 5 - materialer : *Tekstfeltet*](forlob5_textfield/forlob5_textfield.md)
+
+---
+
+[forløb 6 - materialer : *Tekstfeltet*](forlob6_guiHandler/forlob5_guiHandler.md)
