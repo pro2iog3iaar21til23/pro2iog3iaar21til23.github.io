@@ -1,4 +1,4 @@
-# Forløb 5
+# Forløb 6
 ## GUIHandleren : Få et objekt til at holde styr på alle de andre
 
 Ideen med GUIHAndleren er at have en objekt der kan bruges til at holde styr på alle de andre komponenter.
