@@ -1,10 +1,12 @@
 # Forløb 6
 ## GUIHandleren : Få et objekt til at holde styr på alle de andre
 
-Ideen med GUIHAndleren er at have en objekt der kan bruges til at holde styr på alle de andre komponenter.
-Hvis alle komponenter knapper, tekstfelter, radio-buttons osv. aller nedarver fra en fælles komponent-klasse - kan alle indsættes i samme liste - og man kan håndtere alt vha. loops.
+Ideen med GUIHAndleren er at have et objekt der kan bruges til at holde styr på alle komponenter.
+Hvis alle knapper, tekstfelter, radio-buttons osv. nedarver fra en fælles komponent-klasse - kan de indsættes i samme liste - og man kan håndtere alt vha. loops.                     
 
-Se følgende kode - kan i se det er noget mere ovberskueligt!:
+Se følgende kode - kan i se det er noget mere ovberskueligt!:                   
+
+
 ```java
 GUIHandler guiHandler = new GUIHandler();
 
@@ -31,7 +33,10 @@ void keyPressed(){
 }
 ```
 
+----------------------------------------------------------------------
+
 GUIHandleren kan nu f.eks. se således ud:
+
 
 ```java
 class GUIHandler{
