@@ -19,3 +19,8 @@ Men dokumentet skal som minimum indeholde følgende:
 - En lille indledning der fortæller om jeres GUI-bibliotek
 - Et klassediagram over opbygningen af jeres bibliotek.
 - En beskrivelse af hvordan man anvender hver enkelt af jeres komponenter..
+
+#### klassediagrammet
+Det er vigtigt at i laver et ordentligt klassediagram. Det er en del af pensum at i skal kunne beherske forskellige dokumentationsformer.
+Så nu vil vi forsøge at følge en standard, se her:        
+[https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/)
