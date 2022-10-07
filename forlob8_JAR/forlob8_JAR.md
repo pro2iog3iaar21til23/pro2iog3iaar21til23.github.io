@@ -67,40 +67,32 @@ Video forklaring:
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Tilpas din processing JAR-kode - så den kan bruges i andre processing programmer!!!!
+## JAR KODEN FEJLER - OG LØSNING!
 
-Hvis man er allerede har prøvet at anvende JAR-filen er man blevet begravet i Exceptions!!!
-Men hvorfor???  
+Men hvis man prøver at anvende JAR-filen er man blevet begravet i Exceptions!!! Men hvorfor???  
 
-#### Problem:
-Forklaringen er at den processing-kode der er inde i JAR filene anvender det forkerte processing-objekt!
+#### Problem: Processing-koden inde i JAR filen anvender det forkerte processing-objekt!
 
-#### En løsning:
-Man bliver nødt til at omskrive koden i sit bibliotek og anvende det på en lidt anderledes måde:
+#### Løsning: Omskrive koden biblioteket!
 
 ```java
-//ØVERST I BIBLIOTEK KODEN
-PApplet p;
+PApplet p;//øverst i biblioteks koden
 ```
 ```java
-///BIBLIOTEKS KODE, DER ANVENDER PROCESSING !
 class Knap{
   void tegnKnap(){
-    p.rect(10,10,10,10);  // Husk skriv "p." foran!!
+    p.rect(10,10,10,10);  //processing-kode i biblioteket,- skriv "p." foran!!
   }
 }
 ```
-
 ```java
-//KODEN DER ANVENDER Biblioteket
 GUIBib bib = new GUIBib();
 GUIBib.GUIHandler handler = bib.new GUIHandler();
 GUIBib.Knap k;
 void setup(){
   bib.p = this;   //Gemmer den "rigtige" processing inde i Biblioteket
-  k = handler.createKnap();
+  //osv.
 }
-
 ```
 
 Video forklaring:    
