@@ -26,6 +26,6 @@ Mvh underviseren selv Anders J.R. Petersen
 
 [forløb 7 - materialer : *Aflevering 1 - kode og dokumentation*](forlob7_Aflevering1/forlob7_Aflevering1.md)
 
-[forløb 8 - materialer : *Lav JAR og tilpas koden*](forlob8_Jar_og_afslutning/forlob8_Jar_og_afslutning.md)
+[forløb 8 - materialer : *Lav JAR og tilpas koden*](forlob8_JAR/forlob8_JAR.md)
 
 ---
