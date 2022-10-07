@@ -8,7 +8,7 @@ JAR står for "Java Archive", og processing er jo bare Java nedenunder motorhjel
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-##1. Lav din egen JAR
+## 1. Lav din egen JAR
 Det er muligt at konstruere en JAR fil i en konsol, men vi vælger et lille "hack" og får processing til det.    
 
 Metoden har jeg beskrevet nedenfor:   
@@ -26,7 +26,7 @@ Video forklaring:
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-##2. Overfør din JAR over i en anden applikation
+## 2. Overfør din JAR over i en anden applikation
 Hele ideen med at pakke alt din biblioteks-kode ned i en JAR er at den nemt kan anvendes af andre, som et slags bibliotek ;-)   
 
 Det eneste man skal gøre, for at anvende en JAR, er at trække JAR'en ind i sin applikation, processing vil nu lava en mappe, der hedder "code" og placere
@@ -39,7 +39,7 @@ Video forklaring:
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-##3. Anvend kode fra en JAR
+## 3. Anvend kode fra en JAR
 
 Nedenfor ses et eksempel på kode, der anvender klasser og metoder fra JAR-filen.
 *Bemærk dog at dine klasser sandsynligvis hedder noget andet!!!*:
