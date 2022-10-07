@@ -4,6 +4,10 @@
 Jeres bibliotek er ikke et rigtigt bibliotek før det er pakket ned i en JAR-file.
 JAR står for "Java Archive", og processing er jo bare Java nedenunder motorhjelmen, så en JAR fil er altså et måde at lave et bibliotek på i processing.
 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ## Lav din egen JAR
 Det er muligt selv at konstruere en JAR fil vha. i en konsol, men vi vælger en lidt lettere metode og får processing til det.    
 
@@ -17,6 +21,10 @@ Metoden har jeg beskrevet nedenfor:
 Video forklaring:    
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iScvXVpLOAI" title="FiltrerOgSelectData" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ## Overfør din JAR over i en anden applikation
 Hele ideen med at pakke alt din biblioteks-kode ned i en JAR er at den nemt kan anvendes af andre, som et slags bibliotek ;-)   
 
@@ -26,9 +34,17 @@ Jar-filen der, og det er herefter muligt at anvende alt det kode der er inde i J
 Video forklaring:   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oxlU4Ghkc08" title="FiltrerOgSelectData" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ## Anvend kode fra en JAR
 
 Video forklaring:    
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gYuJdr9r1k0" title="FiltrerOgSelectData" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## Tilpas din processing JAR-kode - så den kan bruges i andre processing programmer!!!!
