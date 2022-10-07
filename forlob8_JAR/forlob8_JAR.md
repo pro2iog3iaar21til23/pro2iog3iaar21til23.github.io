@@ -8,15 +8,16 @@ JAR står for "Java Archive", og processing er jo bare Java nedenunder motorhjel
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Lav din egen JAR
-Det er muligt selv at konstruere en JAR fil vha. i en konsol, men vi vælger en lidt lettere metode og får processing til det.    
+##1. Lav din egen JAR
+Det er muligt at konstruere en JAR fil i en konsol, men vi vælger et lille "hack" og får processing til det.    
 
 Metoden har jeg beskrevet nedenfor:   
-1. Gå til menuen "File" vælg "Export Application..."
-2. Der kommer en dialog-boks op, her skal du vælge "windows" (også selv om du anvender mac eller noget andet)
-3. Når processing er færdig med at eksportere applikationen åbner den automatisk den mappe hvor eksporten er placeret
-4. I eksport-mappen vælger du mappen "application.windows64" og derefter mappen "lib"
-5. I mappen "lib" ligger din JAR fil - den hedder det samme som din applikation
+1. Vælg "File"
+2. Vælg "Export Application..."
+3. I dialog-boksen vælg "windows" (også selv om du anvender mac eller noget andet)
+4. Når processing er færdig med at eksportere applikationen åbnes eksport-mappen
+5. I eksport-mappen vælges "application.windows64" og derefter "lib"
+6. I mappen "lib" ligger din JAR fil - den hedder det samme som din applikation
 
 Video forklaring:    
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iScvXVpLOAI" title="FiltrerOgSelectData" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -25,7 +26,7 @@ Video forklaring:
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Overfør din JAR over i en anden applikation
+##2. Overfør din JAR over i en anden applikation
 Hele ideen med at pakke alt din biblioteks-kode ned i en JAR er at den nemt kan anvendes af andre, som et slags bibliotek ;-)   
 
 Det eneste man skal gøre, for at anvende en JAR, er at trække JAR'en ind i sin applikation, processing vil nu lava en mappe, der hedder "code" og placere
@@ -38,10 +39,10 @@ Video forklaring:
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Anvend kode fra en JAR
+##3. Anvend kode fra en JAR
 
-Nedenfor ses et eksempel på kode der anvender klasser og metoder fra JAR-filen.
-Bemærk dog at dine klasser sandsynligvis hedder noget andet!!!:
+Nedenfor ses et eksempel på kode, der anvender klasser og metoder fra JAR-filen.
+*Bemærk dog at dine klasser sandsynligvis hedder noget andet!!!*:
 
 ```java
  //GUIBib er selve bibliotek-programmets navn!
@@ -69,11 +70,9 @@ Video forklaring:
 
 ## JAR KODEN FEJLER - OG LØSNING!
 
-Men hvis man prøver at anvende JAR-filen er man blevet begravet i Exceptions!!! Men hvorfor???  
-
-#### Problem: Processing-koden inde i JAR filen anvender det forkerte processing-objekt!
-
-#### Løsning: Omskrive koden biblioteket!
+Men hvis man prøver at anvende JAR-filen bliver man blevet begravet i exceptions!!! hvorfor???  
+****Problem: Processing-koden inde i JAR filen anvender det forkerte processing-objekt!****
+****Løsning: Omskrive koden biblioteket!****
 
 ```java
 PApplet p;//øverst i biblioteks koden
