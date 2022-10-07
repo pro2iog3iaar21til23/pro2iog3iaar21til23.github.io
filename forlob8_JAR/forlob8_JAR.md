@@ -29,6 +29,6 @@ Video forklaring:
 ## Anvend kode fra en JAR
 
 Video forklaring:    
-<iframe width="560" height="315" src="https://www.youtube.com/gYuJdr9r1k0" title="FiltrerOgSelectData" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gYuJdr9r1k0" title="FiltrerOgSelectData" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Tilpas din processing JAR-kode - så den kan bruges i andre processing programmer!!!!
