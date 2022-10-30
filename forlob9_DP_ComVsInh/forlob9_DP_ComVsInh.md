@@ -20,6 +20,8 @@ Vi kigger her på en "Strategy Pattern" der direkte udnytter "komposition istede
 
 [https://refactoring.guru/design-patterns/strategy](https://refactoring.guru/design-patterns/strategy)
 
+[StrategyPatternHeadFirst.pdf](StrategyPatternHeadFirst.pdf)
+
 ## Opgaven
 - Udtænk en knap klasse, der anvender "strategy pattern". Selve den handling som udføres skal pakkes ind i en såkaldt "strategy".
 - Tegn et klassediagram over implementationen
