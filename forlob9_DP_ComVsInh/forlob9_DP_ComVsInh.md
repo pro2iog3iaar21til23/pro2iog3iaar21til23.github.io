@@ -1,6 +1,9 @@
 ***Helt nye programmerings-keywords:*** interface, implements        
-***Nye termer:*** design pattern       
+***Nye termer:*** design pattern, anonym klasse
 ***Vigtige termer ( i allerede kender ):*** komposition, nedarvning       
+
+[https://processing.org/reference/implements.html](https://processing.org/reference/implements.html)
+[https://www.baeldung.com/java-anonymous-classes](https://www.baeldung.com/java-anonymous-classes)
 
 ------------------------------------------------
 
