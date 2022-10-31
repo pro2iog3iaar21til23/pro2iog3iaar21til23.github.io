@@ -1,6 +1,6 @@
-***Helt nye programmerings-keywords:*** interface, implements
-***Nye termer:*** design pattern
-***Vigtige termer ( i allerede kender ):*** komposition, nedarvning
+***Helt nye programmerings-keywords:*** interface, implements        
+***Nye termer:*** design pattern       
+***Vigtige termer ( i allerede kender ):*** komposition, nedarvning       
 
 ------------------------------------------------
 
