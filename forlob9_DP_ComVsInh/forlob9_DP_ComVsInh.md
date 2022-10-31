@@ -1,3 +1,9 @@
+***Helt nye programmerings-keywords:*** interface, implements
+***Nye termer:*** design pattern
+***Vigtige termer ( i allerede kender ):*** komposition, nedarvning
+
+------------------------------------------------
+
 # Design Patterns - composition vs. inheritance
 
 Vi har nu prøvet kræfter med at lave et objektorienteret bibliotek - og set fordelene ved at opdele forskellige elementer i klasser så de kan genbruges af andre.
