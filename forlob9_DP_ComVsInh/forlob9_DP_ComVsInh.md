@@ -34,7 +34,7 @@ int result = 0;
 Button b1;
 void setup() {
   size(500, 500);
-  b1 = new Button(10, 10, 80, 30, "+1", new Command() {
+  b1 = new Button(10, 10, 80, 30, "+1", new Action() {
     public void execute() {result = result+1;}
   });
 }
