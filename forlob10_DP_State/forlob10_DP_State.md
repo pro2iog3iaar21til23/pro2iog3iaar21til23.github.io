@@ -4,8 +4,8 @@
 
 ------------------------------------------------
 # Design Pattern - State Pattern
-Vi har nu kigget på "Strategy pattern" og det derfor næsten synd at forlade "design patterns" uden at have kigget "state pattern".
-Begge patterns anvender komposition til at indkapsle en tilstand der ændrer sig, men hvor vi før kun satte en tilstand, kan tilstanden i et "state pattern" skifte sig selv ud med en ny!!
+Vi har nu kigget på "Strategy pattern" og det er derfor næsten synd at forlade "design patterns" uden at have kigget "state pattern".
+Begge patterns anvender komposition til at indkapsle en tilstand. Men hvor vi selv skiftede tilstand, skifter tilstanden i et "state pattern" sig selv ud med en ny tilstand!!
 
 ------------------------------------------------
 ## State pattern
