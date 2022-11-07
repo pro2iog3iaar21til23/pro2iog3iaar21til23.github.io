@@ -1,4 +1,4 @@
-***Helt nye programmerings-keywords:***
+***Helt nye programmerings-keywords:***       
 ***Nye termer:*** tilstands-maskine      
 ***Vigtige termer ( i allerede kender ):*** flowdiagram      
 
