@@ -1,6 +1,6 @@
 ***Helt nye programmerings-keywords:*** ...    
-***Nye termer:*** ...      
-***Vigtige termer ( i allerede kender ):*** tilstands-maskine, flowdiagram     
+***Nye termer:*** tilstands-maskine
+***Vigtige termer ( i allerede kender ):*** flowdiagram     
 
 ------------------------------------------------
 # Design Pattern - State Pattern
