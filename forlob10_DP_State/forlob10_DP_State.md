@@ -24,12 +24,51 @@ Vælg en af nedenstående opgaver, i begge tilfælde skal i aflevere følgende.
 
 ## Vælg en af følgende opgaver:
 
-### opgave 1 - selvvalgt program, der implementerer state-pattern
-
-### opgave 2 - en bold, der ændrer bevægelses-state på følgende måde
+### opgave 1 - en bold, der ændrer bevægelses-state på følgende måde
 
 - bolden starter i midten af skærmen (500x500) i tilstand A
 - tilstand A : bevæger sig til højre.   Hvis x > 400, skiftes til tilstand B
 - tilstand B : bevæger sig nedad.       Hvis y > 400 skiftes til tilstand C
 - tilstand C : bevæger sig til venstre. Hvis x < 100 skiftes til tilstand D
 - tilstand D : bevæger sig op.          Hvis y < 100 skiftes til tilstand A  
+
+
+Forslag til jeres klient/main kode:
+```java
+Ball b = new Ball();
+
+void setup(){
+  size(500,500);
+}
+
+void draw(){
+ clear();
+ b.update();
+ b.display();
+}
+```
+
+
+Forslag til hvordan kode ser ud for bold'en:
+
+```java
+class Ball{
+  float x=250,y=250,bs=20;
+  State s = new StateA();
+
+  void setState(State newState){
+    s = newState;
+  }
+
+  void update(){
+    s.update();  
+  }
+
+  void display(){
+    ellipse(x,y,20,20);  
+  }
+```
+
+
+
+### opgave 2 - selvvalgt program, der implementerer state-pattern
