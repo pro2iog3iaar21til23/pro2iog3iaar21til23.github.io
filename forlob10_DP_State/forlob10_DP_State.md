@@ -17,12 +17,12 @@ Vi anvender et flowchart til at beskrive programmets tilstande, det er nemmest
 
 ------------------------------------------------
 # Opgaven - aflevering på Lectio (ca. 1 uge):
-Vælg en af nedenstående opgaver, i begge tilfælde skal i aflevere følgende.
+I skal aflevere følgende.
 - en kort beskrivelse af programmet
 - et flowdiagram, der viser tilstande for programmet
 - koden
 
-## Vælg en af følgende opgaver:
+Vælg enten opgave 1 eller 2.
 
 ### opgave 1 - en bold, der ændrer bevægelses-state på følgende måde
 
