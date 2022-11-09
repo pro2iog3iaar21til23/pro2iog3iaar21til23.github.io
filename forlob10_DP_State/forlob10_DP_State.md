@@ -24,11 +24,9 @@ I skal aflevere følgende.
 - en kort beskrivelse af programmet. Forklar både state-pattern og hvordan det relaterer sig til strategy pattern.
 - tegn et flowchart, der viser tilstande for programmet
 - tegn et statechart
-- tegn et klassediagram
+- tegn et klassediagram.
 
-Vælg enten opgave 1 eller 2.
-
-### opgave 1
+### opgave-beskrivelse
 Lav en bold, der ændrer bevægelses-state på følgende måde
 
 - bolden starter i midten af skærmen (500x500) i tilstand A
@@ -73,7 +71,3 @@ class Ball{
     ellipse(x,y,20,20);  
   }
 ```
-
-### opgave 2
-
-Lav et selvvalgt program, der implementerer state-pattern
