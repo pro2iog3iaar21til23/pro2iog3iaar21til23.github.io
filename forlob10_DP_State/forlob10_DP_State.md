@@ -16,11 +16,12 @@ Vi anvender et flowchart til at beskrive programmets tilstande, det er nemmest
 [https://en.wikipedia.org/wiki/Flowchart](https://en.wikipedia.org/wiki/Flowchart)
 
 ## Statechart
+[https://sparxsystems.com/resources/tutorials/uml2/state-diagram.html](https://sparxsystems.com/resources/tutorials/uml2/state-diagram.html)
 [https://en.wikipedia.org/wiki/UML_state_machine](https://en.wikipedia.org/wiki/UML_state_machine)
 ------------------------------------------------
 # Opgaven - aflevering på Lectio (ca. 1 uge):
 I skal aflevere følgende.
-- en kort beskrivelse af programmet. Forklar både state-pattern og hvordan det relaterer sig til strategy pattern. 
+- en kort beskrivelse af programmet. Forklar både state-pattern og hvordan det relaterer sig til strategy pattern.
 - tegn et flowchart, der viser tilstande for programmet
 - tegn et statechart
 - tegn et klassediagram
