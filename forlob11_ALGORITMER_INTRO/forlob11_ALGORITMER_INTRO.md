@@ -41,7 +41,7 @@ Skrive almindelige ord. "hvis" i stedet for "if" og "gentag antal gange" istedet
 I skal skriv følgende kode færdig:
 ```java
 void setup(){
- int[] usorteret =  {1,6,3,8,1,3,9,0,1,5};
+ int[] usorteret =  {1,9,3,5,10,6,4,8,2,7};
  int[] sorteret  = new int[usorteret.length];
  //Skriv kode, her, der flytter fra "usorteret" array til "sorteret" array!!!
  printList(usorteret);
