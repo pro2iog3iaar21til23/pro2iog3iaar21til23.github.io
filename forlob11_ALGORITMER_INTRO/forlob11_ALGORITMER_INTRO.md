@@ -1,6 +1,6 @@
-***Helt nye programmerings-keywords:*** ...
-***Nye termer:*** algoritme, "orden", sorteringsalgoritme
-***Vigtige termer ( i allerede kender ):*** pseudokode
+***Helt nye programmerings-keywords:*** ...         
+***Nye termer:*** algoritme, "orden", sorteringsalgoritme        
+***Vigtige termer ( i allerede kender ):*** pseudokode       
 
 ------------------------------------------------
 
@@ -24,18 +24,20 @@ Vi laver to opgaver til at starte med.
 ------------------------------------------------
 
 # Opgave 1 - Pseudokode
-## Aflevering : Skriv noget i jeres log-bog
+## Aflevering : Skriv i jeres log-bog
 
-Prøv sammen med en makker at skrive pseudokode til den kort-sortering i ser på animationen nedenfor:
+[https://www.futurelearn.com/info/courses/block-to-text-based-programming/0/steps/39492](https://www.futurelearn.com/info/courses/block-to-text-based-programming/0/steps/39492)
 
-[https://www.educative.io/courses/visual-introduction-to-algorithms/jvR3R](https://www.educative.io/courses/visual-introduction-to-algorithms/jvR3R)
+Lav pseudokoden for et program, der flytter en cirkel fra øverste venstre hjørne af skærmen ned imod nederste højre.
+Cirklen flyttes kun 1 pixels i x og y-aksens retning hver gang der går 10 frames!
 
+***hint:Husk du skal skrive anvende almindelige ord "hvis" i stedet for "if" og "gentag antal gange" istedet for "for"...***
 ------------------------------------------------
 
 # Opgave 2 - Skriv koden til en sorterings-algoritme
-## Aflevering : Skriv noget i jeres log-bog
+## Aflevering : Skriv i jeres log-bog
 
-### del 1:
+### del 1: skriv kode
 I skal skriv følgende kode færdig:
 ```java
 void setup(){
@@ -49,7 +51,11 @@ void setup(){
 void printList(int[] list){for(int e:list) print(e + " "); println();}
 ```
 
-### del 2:
+### del 2: skriv pseudokode
+Skriv pseudokode for koden du har skrevet i del 1
+
+
+### del 3: frivillig
 Pak jeres sorteringsmetode ned i en funktion:
 ```java
 void setup(){
