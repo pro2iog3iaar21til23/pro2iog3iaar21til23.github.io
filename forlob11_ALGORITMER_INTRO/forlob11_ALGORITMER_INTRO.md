@@ -31,7 +31,7 @@ Vi laver to opgaver til at starte med.
 Lav pseudokoden for et program, der flytter en cirkel fra øverste venstre hjørne af skærmen ned imod nederste højre.
 Cirklen flyttes kun 1 pixels i x og y-aksens retning hver gang der går 10 frames!
 
-***hint:Husk du skal skrive anvende almindelige ord "hvis" i stedet for "if" og "gentag antal gange" istedet for "for"...***
+*hint:Husk du skal skrive anvende almindelige ord "hvis" i stedet for "if" og "gentag antal gange" istedet for "for"...*
 ------------------------------------------------
 
 # Opgave 2 - Skriv koden til en sorterings-algoritme
