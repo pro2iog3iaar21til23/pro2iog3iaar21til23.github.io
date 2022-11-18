@@ -35,3 +35,9 @@ Mvh underviseren selv Anders J.R. Petersen
 [forløb 9 - materialer : *Design Patterns - composition vs. inheritance*](forlob9_DP_ComVsInh/forlob9_DP_ComVsInh.md)
 
 [forløb 10 - materialer : *State pattern*](forlob10_DP_State/forlob10_DP_State.md)
+
+---
+
+### Algoritmer
+
+[forløb 11 - materialer : *Intro til algoritmer*](forlob11_ALGORITMER_INTRO/forlob11_ALGORITMER_INTRO.md) 
