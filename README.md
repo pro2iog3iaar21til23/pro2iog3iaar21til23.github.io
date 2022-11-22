@@ -43,3 +43,5 @@ Mvh underviseren selv Anders J.R. Petersen
 [forløb 11 - materialer : *Intro til algoritmer*](forlob11_ALGORITMER_INTRO/forlob11_ALGORITMER_INTRO.md)
 
 [forløb 11 - materialer : *Løsning til opgaven*](forlob11_ALGORITMER_INTRO/losning.md)
+
+[forløb 12 - materialer : *API & Bubblesort*](forlob12_bubblesort/bubblesort.md)
