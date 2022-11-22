@@ -34,7 +34,7 @@ Udskriver en array kaldet "liste" på en linje.
 # Opgave 2 - Bubblesort
 ## Aflevering : Skriv i jeres log-bog
 
-I skal nu prøve at bygge "bubble-sort". Det er vigtigt i anvender funktion "swap" fra første opgave.   
+I skal nu prøve at bygge "bubble-sort". Anvend funktionerne "swap" og "printList" fra første opgave.   
 
 Pseudokode (måske lidt sjusket):
 
