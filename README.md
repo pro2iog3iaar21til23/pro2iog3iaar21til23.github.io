@@ -40,4 +40,6 @@ Mvh underviseren selv Anders J.R. Petersen
 
 ### Algoritmer
 
-[forløb 11 - materialer : *Intro til algoritmer*](forlob11_ALGORITMER_INTRO/forlob11_ALGORITMER_INTRO.md) 
+[forløb 11 - materialer : *Intro til algoritmer*](forlob11_ALGORITMER_INTRO/forlob11_ALGORITMER_INTRO.md)
+
+[forløb 11 - materialer : *Løsning til opgaven*](forlob11_ALGORITMER_INTRO/losning.md)
