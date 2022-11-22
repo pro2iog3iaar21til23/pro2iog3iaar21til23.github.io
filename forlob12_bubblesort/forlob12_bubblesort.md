@@ -44,3 +44,12 @@ Pseudokode (måske lidt sjusket):
 3. Hvis antallet af "swaps" > 0 gentag ellers Stop!  
 
 ```
+
+Jeres setup skal se således ud:
+```java
+void setup(){
+  int[] list = { 1,2,6,3,8,1,2,9,7,6};
+  bubbleSort(list);
+  printList(list);
+}
+```
