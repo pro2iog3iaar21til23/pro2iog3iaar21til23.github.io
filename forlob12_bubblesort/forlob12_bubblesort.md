@@ -40,7 +40,7 @@ Pseudokode (måske lidt sjusket):
 
 ```
 1. Hvis list[i] > list[i+1], byt rundt
-2. Sæt i=i+1 og gentag 1 - indtil i+1>= liste længden.
+2. Sæt i=i+1 og gentag (1) - indtil i < "liste længde" - 1.
 3. Hvis antallet af "swaps" > 0 gentag ellers Stop!  
 
 ```
