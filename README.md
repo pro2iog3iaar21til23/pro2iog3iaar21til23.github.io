@@ -45,3 +45,5 @@ Mvh underviseren selv Anders J.R. Petersen
 [forløb 11 - materialer : *Løsning til opgaven*](forlob11_ALGORITMER_INTRO/losning.md)
 
 [forløb 12 - materialer : *API & Bubblesort*](forlob12_bubblesort/forlob12_bubblesort.md)
+
+[forløb 12 - materialer : *Køretid*](forlob12_bubblesort/forlob12_tidsopgaver.md)
