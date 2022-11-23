@@ -3,37 +3,31 @@
 ***Vigtige termer ( i allerede kender ):***
 
 ---------------------------------------------------------
+
 # Køretiden
 
 Afviklingstiden eller køretiden for et program er den tid det tager at afvikle.   
 Vi er selvfølgelig interesserede i at lave hurtige programmer og vil derfor gerne kunne vurdere programmets køretid.    
+Men køretiden for et program er afhængigt af mange faktorer såsom: harddware, operativsystem, udviklingsmiljøet, programmeringssproget, de forskellig operationer der udføres i koden og de andre programmer der kører på computeren.   
+Mange af disse faktorer er ikke de samme hver gang koden afvikles, det er derfor nødvendigt at betragte noget, der ikke varierer hver gang koden afvikles. Derfor vælger man at betragte den del af koden, der dominerer kørselstiden mest.
 
-Men køretiden for et program er afhængigt af mange faktorer såsom:
-- harddware
-- operativsystem
-- udviklingsmiljøet
-- programmeringssproget
-- de forskellig operationer der udføres i koden
-- de andre programmer der kører på computeren.   
-
-Mange af disse faktorer er ikke de samme hver gang koden afvikles, det er derfor nødvendigt at betragte noget, der ikke varierer hver gang koden afvikles.    
-
-Derfor vælger man at betragte den del af koden, der dominerer kørselstiden mest.
 ---------------------------------------------------------
+
 # Køretiden for sorteringsalgoritmer
 
 Når vi kigger på sorteringsalgoritmer - sorterer vi elementer i et array.    
 Læsning og skrivning til et array er ret "dyrt".   
 Desuden er antallet af læsninger og skrivninger ofte afhængigt af både antallet af elementer i arrayet og sammensætningen.    
 
-For vælger derfor at tælle to ting:
+Vi vælger derfor at tælle enten:
 - "sammenligninger" (sammenligninger af to elementer fra arrayet)
 - "ombytninger" (ombytninger af to elementer i arrayet)
----------------------------------------------------------
-# - Anvendelse af printList
 
-For at tælle "sammenligninger" og "ombytninger" er det nødvendigt at anvende jeres metode "printList".
-Anvend "printList" til at udskrive arrayet for hvert gennemløb... således du herefter kan tælle ombytninger og ræsonerer dig frem til antal sammenligninger.
+---------------------------------------------------------
+# Anvendelse af printList
+
+For at tælle "sammenligninger" og "ombytninger" er det nødvendigt at anvende metoden "printList".
+Anvend "printList" til at udskrive arrayet for hvert gennemløb... således kan du herefter tælle ombytninger og ræsonnere dig frem til antal sammenligninger.
 
 ---------------------------------------------------------
 
