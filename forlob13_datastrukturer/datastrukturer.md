@@ -9,7 +9,7 @@ Datastrukturer er en uundværlig del af algoritmer.
 
 ## Køer og stakke
 
-De to meste elementære datastrukturer er en "Kø" og en "Stak". De indgår i alle mulige almindelige sammenhænge med også i mere komplicerede algoritmer, såsom Algarst Dijgstras korteste-vej algoritme.
+De to meste elementære datastrukturer er en "Kø" og en "Stak". De indgår i alle mulige almindelige sammenhænge med også i mere komplicerede algoritmer, såsom Edsger Wybe Dijkstras korteste-vej algoritme.
 
 ![queue_stack.png](queue_stack.png)
 
