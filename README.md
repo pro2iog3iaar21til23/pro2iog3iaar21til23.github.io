@@ -46,4 +46,4 @@ Mvh underviseren selv Anders J.R. Petersen
 [forløb 12 - materialer : *API & Bubblesort*](forlob12_bubblesort/forlob12_bubblesort.md)   
 [forløb 12 - materialer : *Køretid*](forlob12_bubblesort/forlob12_tidsopgaver.md)
 
-[forløb 13 - materialer : *Datastrukturer*](forlob13_datastrukturer/forlob13_datastrukturer.md)
+[forløb 13 - materialer : *Datastrukturer*](forlob13_datastrukturer/datastrukturer.md)
