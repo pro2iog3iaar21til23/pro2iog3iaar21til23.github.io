@@ -41,11 +41,11 @@ class Node{
 - Byg klassen Node
 - Skriv en test kode hvor du forsøger at hæfte 3 nodes sammen
 - Lav en funktion der tager en Node som argument og udskriver alle de noder der linker til denne
-- Kø:
-  - Lav en klasse kaldet Queue
-  - Den skal indholde to funktioner "enqueue" og "dequeue", der hhv. indsætter og fjerner elementer korrekt fra køen
-  - test din klasse
 - Stak:
   - Lav en klasse kaldet Stack
   - Den skal indholde to funktioner "put" og "get, der hhv. indsætter og fjerner elementer korrekt fra stakken
+  - test din klasse
+- Kø:
+  - Lav en klasse kaldet Queue
+  - Den skal indholde to funktioner "enqueue" og "dequeue", der hhv. indsætter og fjerner elementer korrekt fra køen
   - test din klasse
