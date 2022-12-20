@@ -37,6 +37,7 @@ class Node{
 --------------------------------------------------------------------------------------
 
 ## opgaver
+(løsningsforslag til stak med insert: [linklist_stack.md](linklist_stack.md))
 
 - Byg klassen Node
 - Skriv en test kode hvor du forsøger at hæfte 3 nodes sammen
