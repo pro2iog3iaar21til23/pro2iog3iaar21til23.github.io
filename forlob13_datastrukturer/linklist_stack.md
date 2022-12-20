@@ -1,8 +1,8 @@
 # Løsning: linkedlist stack & insert
 
-Her ses et løsningsforslag til hvordan man kan implementere lave insert i en stak bygget med en linkedlist.   
-Denne stak kan kun indeholde værdier der er af typen "integers", men datatypen er selvfølgelig valgfri.   
-Jeg har valgt en kompakt kodeimplementation for at selve koden fylder mindre.
+Her ses et løsningsforslag til hvordan man kan implementere "insert" i en stak, bygget med en linkedlist. Denne stak indeholder værdier der er af typen "integers", men datatypen er selvfølgelig valgfri.   
+
+Kodeimplementationen er kompakt for at selve koden fylder mindre.
 
 En linked-list er opbygget af Nodes. Her ses Node-klassen:
 ```java
@@ -12,7 +12,7 @@ class Node{
 }
 ```
 
-Selve stak-klassen og "insert" kan implemeneteres således:
+Selve stak-klassen og "insert" kan implementeres således:
 ```java
 class Stack{
   Node head;
