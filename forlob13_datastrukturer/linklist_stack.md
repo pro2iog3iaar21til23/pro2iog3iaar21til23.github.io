@@ -12,6 +12,8 @@ class Node{
 }
 ```
 
+-----------------------------------------------------------------------------------------------------------------------
+
 Selve stak-klassen og "insert" kan implementeres således:
 ```java
 class Stack{
@@ -28,6 +30,13 @@ class Stack{
   }
 }
 ```
+
+Her ser i en tegning af hvordan insert-funktionen fungerer:     
+![insert_stack_linkedlist.png](insert_stack_linkedlist.png)
+
+-----------------------------------------------------------------------------------------------------------------------
+
+
 Anvendelsen af stakken kunne se således ud
 ```java
 void setup(){
