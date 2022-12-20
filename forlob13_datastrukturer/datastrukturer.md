@@ -44,7 +44,7 @@ class Node{
 - Lav en funktion der tager en Node som argument og udskriver alle de noder der linker til denne
 - Stak:
   - Lav en klasse kaldet Stack
-  - Den skal indholde to funktioner "put" og "get, der hhv. indsætter og fjerner elementer korrekt fra stakken
+  - Den skal indholde to funktioner "put" og "get", der hhv. indsætter og fjerner elementer korrekt fra stakken
   - test din klasse
 - Kø:
   - Lav en klasse kaldet Queue
