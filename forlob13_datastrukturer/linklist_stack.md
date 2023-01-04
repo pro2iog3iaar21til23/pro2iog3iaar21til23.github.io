@@ -29,7 +29,7 @@ class Stack{
   //---------------------------------------------
 
   void udskriv(){
-    for(Node n=head ; n!=null ; n=n.next) print(n.value + " ");  
+    for(Node n=head ; n!=null ; n=n.next) print(n.value + " ");  println();
   }
 }
 ```
