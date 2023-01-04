@@ -1,4 +1,5 @@
-# Løsning: linkedlist stack & insert
+# Forløb 13 - 2. Del
+## Løsning: linkedlist stack & insert
 
 Her ses et løsningsforslag til hvordan man kan implementere "insert" i en stak, bygget med en linkedlist. Denne stak indeholder værdier der er af typen "integers", men datatypen er selvfølgelig valgfri.   
 

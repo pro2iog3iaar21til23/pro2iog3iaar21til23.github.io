@@ -1,4 +1,4 @@
-# Forløb 13
+# Forløb 13 - 3.Del
 ## Datastrukturer - Slet element i en stack
 
 For at færdigøre jeres stak er det også nødvendigt at kunne slette elementer.
