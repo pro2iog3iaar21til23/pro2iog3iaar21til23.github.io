@@ -50,3 +50,7 @@ Mvh underviseren selv Anders J.R. Petersen
 [forløb 13 - materialer : *Del 2 : Løsning til stak (kun insert)*](forlob13_datastrukturer/del2_linklist_stack.md)     
 [forløb 13 - materialer : *Del 3 : Stak remove/slet*](forlob13_datastrukturer/del3_stack_remove.md)   
 [forløb 13 - materialer : *Del 4 : Afleveringen*](forlob13_datastrukturer/del4_afleveringen.md)   
+
+### Repetition
+
+[forløb 14 : repetition 1](forlob14_repetition/forlob14_rep1.md)
