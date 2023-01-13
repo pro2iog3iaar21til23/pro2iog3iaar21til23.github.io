@@ -1,7 +1,8 @@
 #Repetitions opgaver - 2D-grafik, variabler,
 
 ## opgave 1 - arrays, loops, if-statements og funktioner
-Byg funktionen getMax, der finder det største tal i et heltals-array:    
+Byg funktionen getMax, der finder det største tal i et heltals-array,
+prøv at lave en løsning både med og uden brug af processings "max":    
 ![getMax.png](getMax.jpg)
 
 ## opgave 2 - arrays, loops og funktioner
