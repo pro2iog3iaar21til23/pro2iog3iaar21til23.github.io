@@ -10,8 +10,10 @@ Du kan godt antage at arrayet kun indeholder positive tal:
 ![printFreq.png](printFreq.jpg)
 
 ## opgave 3 - variabler og koordinater
-Byg funktionen tegnFreq der tegner et søjle-diagram, istedet for at udskrive forkomster af hvert tal i arrayet, som i opgave 2:
-![tegnFreqKode.png](tegnFreqKode.jpg)    
+Byg funktionen tegnFreq der tegner et søjle-diagram, istedet for at udskrive forkomster af hvert tal i arrayet, som i opgave 2:  
+
+![tegnFreqKode.png](tegnFreqKode.jpg)       
+
 ![freqDiagram.png](freqDiagram.jpg)
 
 ## opgave 4 - variabler og koordinater
