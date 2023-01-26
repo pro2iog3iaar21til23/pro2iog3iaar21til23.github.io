@@ -1,4 +1,4 @@
-#Repetitions opgaver - 2D-grafik, variabler,
+#Repetitions opgaver - diverse opgaver i 2D-grafik, variabler,
 
 ## opgave 1 - arrays, loops, if-statements og funktioner
 Byg funktionen getMax, der finder det største tal i et heltals-array,

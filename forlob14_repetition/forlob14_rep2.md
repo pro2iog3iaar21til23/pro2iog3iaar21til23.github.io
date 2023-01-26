@@ -1,6 +1,6 @@
-# Rep2:
+# Rep2:Nemme opgaver
 
-## Kodeopgaver, der dækker arrays, if-statements, funktioner og loops:
+## Kodeopgaver, der dækker basal brug af arrays, if-statements, funktioner og loops:
 1. Skriv en kode, der bruger en while-loop til at udskrive alle tal fra 1 til 100.
 2. Skriv en kode, der bruger en for-loop til at tegne 10 cirkler med stigende diameter.
 3. Skriv en kode, der bruger en funktion til at udskrive alle elementer i et array med ord, der er længere end 5 bogstaver.
