@@ -1,4 +1,4 @@
-# Rep2:Nemme opgaver
+# Rep2: Nemme opgaver
 
 ## Kodeopgaver, der dækker basal brug af arrays, if-statements, funktioner og loops:
 1. Skriv en kode, der bruger en while-loop til at udskrive alle tal fra 1 til 100.
