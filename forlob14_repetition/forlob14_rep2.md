@@ -8,3 +8,8 @@
 5. Skriv en funktion, der tager et array med tal som input og returnerer det tal, der er mindst i arrayet.
 6. Skriv en funktion, der tager et array og med ord som input og tæller antallet af ord, der starter med en bestemt bogstav. Det valgte bogstav skal indgå som parameter i funktionen.
 7. Skriv en funktion, der tager et array med tal som input og returnerer det tal, der optræder oftest i arrayet.
+
+## Kodeopgaver, der dækker basal objektorienteret programmering
+1. Lav en superklasse "Shape" med en metode "display" og en konstruktør. Lav underklasser "Rectangle" og "Ellipse" der nedarver fra Shape og har metoder til at tegne sig selv.
+2. Lav en superklasse "Vehicle" med en metode "move" og en konstruktør. Lav underklasser "Car" og "Bicycle" der nedarver fra Vehicle og har metoder til at ændre hastighed.
+3. Lav en superklasse "Animals" med en metode "speak" og en konstruktør. Lav underklasser "Dog" og "Cat" der nedarver fra Animals og har deres egne versioner af "speak" metoden.
