@@ -53,6 +53,6 @@ Mvh underviseren selv Anders J.R. Petersen
 
 ### Repetition
 
-[forløb 14 : Diverse forskellige opgaver](forlob14_repetition/forlob14_rep1.md)      
-[forløb 14 : Basale opgave i 'Arrays,if-statements, funktioner og loops' og 'Objektorienteret-programmering'](forlob14_repetition/forlob14_rep2.md)     
-[forløb 14 : Svære opgaver i objektorienteret programmering](forlob14_repetition/forlob14_rep3.md)
+[forløb 14 : Blandede opgaver](forlob14_repetition/forlob14_rep1.md)      
+[forløb 14 : Nemm opgave i 'Arrays, if, funktioner, loops' og 'oop'](forlob14_repetition/forlob14_rep2.md)     
+[forløb 14 : Svære opgaver i oop](forlob14_repetition/forlob14_rep3.md)
