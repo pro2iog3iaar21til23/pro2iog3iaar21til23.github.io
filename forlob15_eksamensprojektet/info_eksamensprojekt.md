@@ -5,9 +5,9 @@ Eksamensprojektperioden består af:
 (1) Valg af projekt/emne og projektbeskrivelse, der skal godkendes:
 - *PROJEKTBESKRIVELSEN AFLEVERES SENEST --- TORSDAG d.23/2-2023 23:00*
 
-(2) 20 timers uddannelsestid til eksamensprojekt:
-*Et produkt*, program udviklet på baggrund af projektbeskrivelsen  
-*En journal*, der skal beskrive udviklingen af produktet. Journalen må højest have et omfang på 10 sider, ekskl. diagrammer og kode  
+(2) 20 timers uddannelsestid til eksamensprojekt:      
+*Et produkt*, program udviklet på baggrund af projektbeskrivelsen.    
+*En journal*, der skal beskrive udviklingen af produktet. Journalen må højest have et omfang på 10 sider, ekskl. diagrammer og kode.  
 
 - *EKSAMENSPROJEKTET AFLEVERES SENEST --- SØNDAG d.16/4-2023 23:00*    
 
