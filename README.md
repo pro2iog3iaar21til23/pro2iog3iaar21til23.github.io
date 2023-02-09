@@ -29,15 +29,11 @@ Mvh underviseren selv Anders J.R. Petersen
 
 [forløb 8 - materialer : *Lav JAR og tilpas koden*](forlob8_JAR/forlob8_JAR.md)
 
----
-
 ### Design Patterns - composition vs. inheritance
 
 [forløb 9 - materialer : *Design Patterns - composition vs. inheritance*](forlob9_DP_ComVsInh/forlob9_DP_ComVsInh.md)
 
 [forløb 10 - materialer : *State pattern*](forlob10_DP_State/forlob10_DP_State.md)
-
----
 
 ### Algoritmer
 
