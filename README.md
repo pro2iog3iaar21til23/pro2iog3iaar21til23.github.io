@@ -56,3 +56,11 @@ Mvh underviseren selv Anders J.R. Petersen
 [forløb 14 : Blandede opgaver](forlob14_repetition/forlob14_rep1.md)      
 [forløb 14 : Nemme opgave i 'Arrays, if, funktioner, loops' og 'oop'](forlob14_repetition/forlob14_rep2.md)     
 [forløb 14 : Svære opgaver i oop](forlob14_repetition/forlob14_rep3.md)
+
+### Eksamensprojektet
+
+[folrøb 15 - Pensum programmering B](https://pensumprog.github.io/)
+
+[forløb 15 - Info om eksamensprojektet](forlob15_eksamensprojektet/info_eksamensprojekt.md)   
+[forløb 15 - Projektforslag](forlob15_eksamensprojektet/info_eksamensprojekt.md)   
+[forløb 15 - Synopsen](https://pensumprog.github.io/INDHOLD_I_PROGRAMMERINGS_EKSAMENSPROJEKT.pdf)  
