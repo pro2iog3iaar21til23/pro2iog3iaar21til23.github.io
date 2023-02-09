@@ -1,4 +1,5 @@
-# Generel information - eksamensprojekt programmering niveau B
+# Generel information
+# Eksamensprojekt programmering niveau B
 
 -------------------------------------------------------------------------------------------------
 
