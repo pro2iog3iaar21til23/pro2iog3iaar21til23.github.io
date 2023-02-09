@@ -62,5 +62,5 @@ Mvh underviseren selv Anders J.R. Petersen
 [folrøb 15 - Pensum programmering B](https://pensumprog.github.io/)
 
 [forløb 15 - Info om eksamensprojektet](forlob15_eksamensprojektet/info_eksamensprojekt.md)   
-[forløb 15 - Projektforslag](forlob15_eksamensprojektet/info_eksamensprojekt.md)   
-[forløb 15 - Synopsen](https://pensumprog.github.io/INDHOLD_I_PROGRAMMERINGS_EKSAMENSPROJEKT.pdf)  
+[forløb 15 - Projekt valg](forlob15_eksamensprojektet/info_eksamensprojekt.md)   
+[forløb 15 - Synopsen indehold](https://pensumprog.github.io/INDHOLD_I_PROGRAMMERINGS_EKSAMENSPROJEKT.pdf)  
