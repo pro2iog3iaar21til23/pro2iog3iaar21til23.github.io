@@ -6,6 +6,7 @@ Mvh underviseren selv Anders J.R. Petersen
 
 ---
 
+[Pensum programmering B](https://pensumprog.github.io/)    
 [Arbejdsformer og opgavetyper](arbejdsformer/arbejdsformer.md)
 
 ---
@@ -59,8 +60,6 @@ Mvh underviseren selv Anders J.R. Petersen
 
 ### Eksamensprojektet
 
-[folrøb 15 - Pensum programmering B](https://pensumprog.github.io/)
-
 [forløb 15 - Info om eksamensprojektet](forlob15_eksamensprojektet/info_eksamensprojekt.md)   
-[forløb 15 - Projekt valg](forlob15_eksamensprojektet/info_eksamensprojekt.md)   
+[forløb 15 - Projekt valg](forlob15_eksamensprojektet/projektforslag.md)   
 [forløb 15 - Synopsen indehold](https://pensumprog.github.io/INDHOLD_I_PROGRAMMERINGS_EKSAMENSPROJEKT.pdf)  
