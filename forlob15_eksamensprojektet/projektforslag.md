@@ -1,6 +1,8 @@
 # Projektidéer
 # Eksamensprojekt programmering niveau B
 
+-------------------------------------------------------------------------------------------------
+
 ## 1. Håndtering af en forenings medlemsdata
 I foreninger er der et behov for at informere både nuværende og kommende medlemmer. Dette dobbelte informationsbehov både udadtil og indadtil giver ofte problemer, da det er forskellige informationer de to grupper har behov for.
 Kommende medlemmer har behov for informationer af mere generel art: formål, underafdelinger, aktiviteter m.m.

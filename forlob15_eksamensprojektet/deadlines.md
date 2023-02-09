@@ -1,5 +1,8 @@
 #  Afleveringsfrister
 #  Eksamensprojekt programmering niveau B
+
+-------------------------------------------------------------------------------------------------
+
 Nu begynder eksamensprojektsperioden, den indeholder følgende:
 
 ### 1 : UDARBEJDELSE AF PROJEKTBESKRIVELSE - AFLEVERES SENEST : TORSDAG d.23/2-2023 23:00
