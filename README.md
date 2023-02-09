@@ -62,4 +62,4 @@ Mvh underviseren selv Anders J.R. Petersen
 
 [forløb 15 - Info om eksamensprojektet](forlob15_eksamensprojektet/info_eksamensprojekt.md)   
 [forløb 15 - Projekt valg](forlob15_eksamensprojektet/projektforslag.md)   
-[forløb 15 - Synopsen indehold](https://pensumprog.github.io/INDHOLD_I_PROGRAMMERINGS_EKSAMENSPROJEKT.pdf)  
+[forløb 15 - Synopsens indhold](https://pensumprog.github.io/INDHOLD_I_PROGRAMMERINGS_EKSAMENSPROJEKT.pdf)  
