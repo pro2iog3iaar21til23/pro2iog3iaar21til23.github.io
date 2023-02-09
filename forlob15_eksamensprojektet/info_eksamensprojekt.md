@@ -1,30 +1,39 @@
-# Eksamensprojektoplæg i Programmering niveau B
+# Eksamensprojekt programmering niveau B
 
-I har 20 timers uddannelsestid til at udarbejde et eksamensprojekt. Projektet består af:
-- Et produkt
-- En journal, der skal beskrive udviklingen af produktet. Journalen må højest have et omfang på 10 sider, ekskl. diagrammer og kode
+Nu begynder eksamensprojektperioden, der består af følgende dele:
 
+1.) I skal vælge projekt/emne og udarbejde en projektbeskrivelse der skal godkendes inden projektstart:
+- *Projektbeskrivelsen afleveres senest d.23/2-2023 23:00*
+
+2.) Herefter har i 20 timers uddannelsestid til at udarbejde et eksamensprojekt. Projektet består af:
+- *Et produkt*, program udviklet på baggrund af projektbeskrivelsen
+- *En journal*, der skal beskrive udviklingen af produktet. Journalen må højest have et omfang på 10 sider, ekskl. diagrammer og kode
+- *Afleveres senest* DEADLINE SKAL OVERHOLDES, SVARER TIL EN EKSAMEN
+
+-------------------------------------------------------------------------------------------------
+
+## Projekt/emne valg
 Emnet for jeres eksamensprojekt er frit, dog bør jeres projekt indeholde de grundlæggende programmeringsteknikker fra kernestoffet, såsom: programmeringssprog og elementer i programmers opbygning, herunder variabler, typer, udtryk, kontrolstrukturer,
 parametrisering/abstraktionsmekanismer, rekursion, polymorfi (oop) og algoritmemønstre.   
 
-
-Programmet skal kunne kompilere i et miljø efter eget valg inden for de sprog vi har brugt i undervisningen. Brugeren kan umiddelbart bruge programmet med de instruktioner der er på startbilledet. Læseren af koden kan programmere, så kildekommentarerne skal tilpasses læseren. Der lægges vægt på clean-code, dvs at undgå gentagelser, sigende variabelnavne og generelt en ’pæn’ og læsevenlig kode.
-
-## Projektbeskrivelse:
-
+## Projektbeskrivelse
 Med udgangspunkt i det valgte emne udarbejdes en projektbeskrivelse, der skal indeholde følgende:
 - Problemformulering.
 - Projektafgrænsning.
 - Projekttidsplan.
-- Projektgodkendelse:
+- Projektgodkendelse: Skolen (Læreren) godkender projektbeskrivelsen, når beskrivelsen er fagligt og niveaumæssigt relevant.
 
-Skolen (Læreren) godkender projektbeskrivelsen, når beskrivelsen er fagligt og niveaumæssigt relevant.
+-------------------------------------------------------------------------------------------------
+
+## Sprog/miljø valg
+Programmet skal kunne kompilere i et miljø efter eget valg inden for de sprog vi har brugt i undervisningen. Brugeren kan umiddelbart bruge programmet med de instruktioner der er på startbilledet. Læseren af koden kan programmere, så kildekommentarerne skal tilpasses læseren. Der lægges vægt på clean-code, dvs at undgå gentagelser, sigende variabelnavne og generelt en ’pæn’ og læsevenlig kode.
 
 ## Produkt
 Produkt kan udarbejdes i grupper på 2-3 personer eller som enkeltperson.
 Koden til produktet lægges som bilag til journalen
 journalen og produktet afleveres desuden som en pakket fil på Lectio
 
+-------------------------------------------------------------------------------------------------
 ## Journalen:
 Journalen udarbejdes individuelt
 Journalen skal beskrive udviklingen af det færdige produkt. Den må højst have et
@@ -33,9 +42,11 @@ omfang af 10 sider
 Det skal klart fremgå, hvilke dele af produktet eleven selv har fremstillet, og hvornår der er tale om
 andres arbejde, eller en viderebearbejdning af dette. Oprindelsen bør fremgå af rapporten, og eleven skal dokumentere, hvordan det er konstrueret og anvendes.
 
+-------------------------------------------------------------------------------------------------
+
 ## Projektperioden:  
 
-20 timer med start uge 8, 2023  
+20 timer med start ???  
 
 Afleveringsdato ???  i lectio.
 
