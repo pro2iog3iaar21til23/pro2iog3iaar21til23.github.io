@@ -11,31 +11,34 @@ Eksamensprojektperioden består af:
 - *EKSAMENSPROJEKTET AFLEVERES SENEST --- SØNDAG d.16/4-2023 23:00*    
 
 DEADLINE SKAL OVERHOLDES, SVARER TIL EN EKSAMEN
+
+-------------------------------------------------------------------------------------------------
+## Stikprøver
+
+Jeg vil løbende lave "stikprøver", hvor i skal gennemgå kode i har skrevet, for at teste ejerskab, progression og standpunkt.
+
 -------------------------------------------------------------------------------------------------
 
-## Projekt/emne valg
+### Projekt/emne valg
 Emnet for jeres eksamensprojekt er frit, dog bør jeres projekt indeholde de grundlæggende programmeringsteknikker fra kernestoffet, såsom: programmeringssprog og elementer i programmers opbygning, herunder variabler, typer, udtryk, kontrolstrukturer,
 parametrisering/abstraktionsmekanismer, rekursion, polymorfi (oop) og algoritmemønstre.   
 
-## Projektbeskrivelse
+### Projektbeskrivelse
 Med udgangspunkt i det valgte emne udarbejdes en projektbeskrivelse, der skal indeholde følgende:
 - Problemformulering.
 - Projektafgrænsning.
 - Projekttidsplan.
 - Projektgodkendelse: Skolen (Læreren) godkender projektbeskrivelsen, når beskrivelsen er fagligt og niveaumæssigt relevant.
 
--------------------------------------------------------------------------------------------------
-
-## Sprog/miljø valg
+### Sprog/miljø valg
 Programmet skal kunne kompilere i et miljø efter eget valg inden for de sprog vi har brugt i undervisningen. Brugeren kan umiddelbart bruge programmet med de instruktioner der er på startbilledet. Læseren af koden kan programmere, så kildekommentarerne skal tilpasses læseren. Der lægges vægt på clean-code, dvs at undgå gentagelser, sigende variabelnavne og generelt en ’pæn’ og læsevenlig kode.
 
-## Produkt
+### Produkt
 Produkt kan udarbejdes i grupper på 2-3 personer eller som enkeltperson.
 Koden til produktet lægges som bilag til journalen
 journalen og produktet afleveres desuden som en pakket fil på Lectio
 
--------------------------------------------------------------------------------------------------
-## Journalen:
+### Journalen:
 Journalen udarbejdes individuelt
 Journalen skal beskrive udviklingen af det færdige produkt. Den må højst have et
 omfang af 10 sider
