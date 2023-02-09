@@ -55,7 +55,7 @@ Mvh underviseren selv Anders J.R. Petersen
 [forløb 14 : Svære opgaver i oop](forlob14_repetition/forlob14_rep3.md)
 
 ### Eksamensprojektet
-
+[forløb 15 - Afleveringsfrister](forlob15_eksamensprojektet/deadlines.md)     
 [forløb 15 - Info om eksamensprojektet](forlob15_eksamensprojektet/info_eksamensprojekt.md)   
 [forløb 15 - Projekt valg](forlob15_eksamensprojektet/projektforslag.md)   
 [forløb 15 - Synopsens indhold](https://pensumprog.github.io/INDHOLD_I_PROGRAMMERINGS_EKSAMENSPROJEKT.pdf)  
