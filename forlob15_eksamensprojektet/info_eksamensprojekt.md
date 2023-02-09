@@ -1,15 +1,16 @@
 # Eksamensprojekt programmering niveau B
 
-Nu begynder eksamensprojektperioden, der består af følgende dele:
+Eksamensprojektperioden består af:
 
-1.) I skal vælge projekt/emne og udarbejde en projektbeskrivelse der skal godkendes inden projektstart:
-- *Projektbeskrivelsen afleveres senest d.23/2-2023 23:00*
+(1) Valg af projekt/emne og projektbeskrivelse, der skal godkendes:
+- *PROJEKTBESKRIVELSEN AFLEVERES SENEST --- TORSDAG d.23/2-2023 23:00*
 
-2.) Herefter har i 20 timers uddannelsestid til at udarbejde et eksamensprojekt. Projektet består af:
+(2) 20 timers uddannelsestid til eksamensprojekt:
 - *Et produkt*, program udviklet på baggrund af projektbeskrivelsen
 - *En journal*, der skal beskrive udviklingen af produktet. Journalen må højest have et omfang på 10 sider, ekskl. diagrammer og kode
-- *Afleveres senest* DEADLINE SKAL OVERHOLDES, SVARER TIL EN EKSAMEN
+- *EKSAMENSPROJEKTET AFLEVERES SENEST --- SØNDAG d.16/4-2023 23:00*    
 
+DEADLINE SKAL OVERHOLDES, SVARER TIL EN EKSAMEN
 -------------------------------------------------------------------------------------------------
 
 ## Projekt/emne valg
