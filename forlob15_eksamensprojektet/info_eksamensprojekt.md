@@ -42,16 +42,6 @@ omfang af 10 sider
 Det skal klart fremgå, hvilke dele af produktet eleven selv har fremstillet, og hvornår der er tale om
 andres arbejde, eller en viderebearbejdning af dette. Oprindelsen bør fremgå af rapporten, og eleven skal dokumentere, hvordan det er konstrueret og anvendes.
 
--------------------------------------------------------------------------------------------------
-
-## Projektperioden:  
-
-20 timer med start ???  
-
-Afleveringsdato ???  i lectio.
-
-Deadline skal overholdes.
-
 -------------------------------------------------------------------------------------------------------
 
 ## Fra læreplanen for programmering B, 2017:
