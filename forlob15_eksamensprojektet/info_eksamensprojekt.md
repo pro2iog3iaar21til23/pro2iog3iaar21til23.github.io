@@ -17,7 +17,8 @@ parametrisering/abstraktionsmekanismer, rekursion, polymorfi (oop) og algoritmem
 Med udgangspunkt i det valgte emne udarbejdes en projektbeskrivelse, der skal indeholde følgende:
 - Problemformulering.
 - Projektafgrænsning.
-- Projekttidsplan.
+- Kravspecifikation og designspecifikation.
+- Projekttidsplan (valgfri).
 - Projektgodkendelse: Skolen (Læreren) godkender projektbeskrivelsen, når beskrivelsen er fagligt og niveaumæssigt relevant.
 
 ### Sprog/miljø valg
