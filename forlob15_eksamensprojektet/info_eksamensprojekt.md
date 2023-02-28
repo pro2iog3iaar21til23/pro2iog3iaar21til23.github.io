@@ -6,7 +6,7 @@
 ### Stikprøver
 
 Jeg vil løbende lave "stikprøver", hvor i skal gennemgå kode i har skrevet, for at teste ejerskab, progression og standpunkt.
-
+...
 -------------------------------------------------------------------------------------------------
 
 ### Projekt/emne valg
