@@ -9,6 +9,7 @@ Mvh underviseren selv Anders J.R. Petersen
 [Pensum programmering B](https://pensumprog.github.io/)    
 [Arbejdsformer og opgavetyper](arbejdsformer/arbejdsformer.md)
 
+[Kernestoffet kort fortalt : Se korte videoer om alle emnerne i programmering][explainers/explainers.md]
 ---
 
 ### Udvikling af et Graphical User Interface Library
