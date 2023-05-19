@@ -13,6 +13,13 @@ Mvh underviseren selv Anders J.R. Petersen
 
 ---
 
+# Samlet undervisningsbekrivelse for både 2g og 3g
+
+[undervisningsbeskrivelse fra Lectio](ub_tec.md)
+
+---
+
+
 ### Udvikling af et Graphical User Interface Library
 
 [forløb 1 - materialer : *GUI bibliotek og knapper*](forlob1_guilib_knapper/forlob1_guilib_knapper.md)
