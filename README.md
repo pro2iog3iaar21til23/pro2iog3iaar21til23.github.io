@@ -15,7 +15,7 @@ Mvh underviseren selv Anders J.R. Petersen
 
 # Samlet undervisningsbekrivelse for både 2g og 3g
 
-[undervisningsbeskrivelse fra Lectio](ub_tec.md)
+[undervisningsbeskrivelse fra Lectio](ub_tec.pdf)
 
 ---
 
