@@ -8,12 +8,14 @@
 <body>
   <h1>Bluetooth Device Connection Test</h1>
 
+  <button onclick="startBluetoothConnection()">Start Bluetooth Connection</button>
+
   <script>
-    async function connectToBluetoothDevice(deviceName, deviceAddress) {
+    async function startBluetoothConnection() {
       try {
         // Spørg brugeren om adgang til Bluetooth-enheder
         const device = await navigator.bluetooth.requestDevice({
-          filters: [{ name: deviceName, deviceId: deviceAddress }]
+          filters: [{ name: 'FireFly-B1B7', deviceId: '00:06:66:07:B1:B7' }]
         });
 
         // Opret forbindelse til den valgte enhed
@@ -32,9 +34,6 @@
         alert('Failed to connect to Bluetooth device: ' + error);
       }
     }
-
-    // Kald funktionen for at forbinde til din Bluetooth-enhed med det ønskede navn og MAC-adresse
-    connectToBluetoothDevice('FireFly-B1B7', '00:06:66:07:B1:B7');
   </script>
 </body>
 </html>
