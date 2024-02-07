@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bluetooth Device Connection Test</title>
+</head>
+<body>
+  <h1>Bluetooth Device Connection Test</h1>
+
+  <script>
+    async function connectToBluetoothDevice(deviceName, deviceAddress) {
+      try {
+        // Spørg brugeren om adgang til Bluetooth-enheder
+        const device = await navigator.bluetooth.requestDevice({
+          filters: [{ name: deviceName, deviceId: deviceAddress }]
+        });
+
+        // Opret forbindelse til den valgte enhed
+        const server = await device.gatt.connect();
+
+        // Vis en alertboks hvis forbindelsen lykkedes
+        alert('Connected to Bluetooth device: ' + device.name);
+
+        // Gør noget med den forbundne enhed, f.eks. læs eller skriv data
+
+        // Når du er færdig med enheden, skal du lukke forbindelsen
+        await server.disconnect();
+        alert('Disconnected from Bluetooth device: ' + device.name);
+      } catch (error) {
+        // Håndter eventuelle fejl, der opstår under forbindelsesforsøget
+        alert('Failed to connect to Bluetooth device: ' + error);
+      }
+    }
+
+    // Kald funktionen for at forbinde til din Bluetooth-enhed med det ønskede navn og MAC-adresse
+    connectToBluetoothDevice('dit_enheds_navn_her', 'enhedens_MAC_adresse_her');
+  </script>
+</body>
+</html>
